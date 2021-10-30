@@ -28,7 +28,7 @@
 ### 2.	Visual Studio
 
 ## ScreenShots
-[Imgur](https://i.imgur.com/1H9Jkr6.png)
+![Imgur](https://i.imgur.com/1H9Jkr6.png)
 
 ## Conclusion:
 <p>A Blood Bank is a software product suite designed to improve the quality and management of bloodbank and hospital health care management in the areas of health process analysis and activity-based costing. Blood Bank Manager enables to develop organization and improve its effectiveness and quality of work, Managing the key processes efficiently is critical to the success of the pharmacy. Blood Bank Manager helps manage processes. A Blood Bank Manager provides all process management tool elements:
