@@ -27,6 +27,27 @@
 ### 1.	SQL Server Management Studio
 ### 2.	Visual Studio
 
+## ScreenShots
+![Splash Screen](https://imgur.com/1H9Jkr6)
+<br>
+
+![Splash Screen](https://imgur.com/JsqG71l)
+<br>
+
+![Splash Screen](https://imgur.com/3TGtEcx)
+<br>
+
+![Splash Screen](https://imgur.com/1H9Jkr6)
+<br>
+
+![Splash Screen](https://imgur.com/DozsvQx)
+<br>
+
+![Splash Screen](https://imgur.com/XtQuY29)
+<br>
+
+![Splash Screen](https://imgur.com/Xh6AbQm)
+<br>
 
 ## Conclusion:
 <p>A Blood Bank is a software product suite designed to improve the quality and management of bloodbank and hospital health care management in the areas of health process analysis and activity-based costing. Blood Bank Manager enables to develop organization and improve its effectiveness and quality of work, Managing the key processes efficiently is critical to the success of the pharmacy. Blood Bank Manager helps manage processes. A Blood Bank Manager provides all process management tool elements:
