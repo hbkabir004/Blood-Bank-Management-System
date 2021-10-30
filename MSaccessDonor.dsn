@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=???? ???? ????
+WSID=ABIR
+APP=Microsoft Office
+Trusted_Connection=Yes
+SERVER=ABIR\AUNGSTROMESQL
+Description=DonorData
